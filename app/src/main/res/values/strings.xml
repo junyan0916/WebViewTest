@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test0704</string>
+    <string name="pagebtn">彈出網頁</string>
+    <string name="closepage">關閉網頁</string>
+</resources>
